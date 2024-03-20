@@ -43,7 +43,7 @@ How to Run Locally 🚀
     ```
 2. Go to the frontend directory:
     ```bash
-    cd shareme-frontend
+    cd showoff-frontend
     ```
 3. Install dependencies:
     ```bash
