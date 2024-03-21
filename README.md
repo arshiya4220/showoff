@@ -9,10 +9,14 @@ In this project, I have developed a social media application where users can cre
 [Live Demo](https://showofff.netlify.app)
 
 ## Project Screenshot
+![Screenshot (4)](https://github.com/arshiya4220/showoff/assets/131943642/1749ebd4-bbbf-4ed6-a6a9-979d32c2a099)
 
+![Screenshot (5)](https://github.com/arshiya4220/showoff/assets/131943642/89f41a5c-f745-4e24-88b6-1df53b590982)
 
 ## Video Demo
-Check out our ![demo video](Demo.mp4) to see Showoff in action!
+
+https://github.com/arshiya4220/showoff/assets/131943642/df209248-9eef-4d71-9045-70c6962e49b1
+
 
 ## Flow of the Application
 Showoff follows a smooth flow, starting from user authentication to creating and sharing posts, exploring content, and interacting with other users.
